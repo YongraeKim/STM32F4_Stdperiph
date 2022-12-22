@@ -1,0 +1,13 @@
+"F:\IAR Systems\Embedded Workbench 7.3\arm\bin\armproc.dll" 
+
+"F:\IAR Systems\Embedded Workbench 7.3\arm\bin\armsim2.dll" 
+
+"E:\배재성교수님\비행제어컴퓨터\소프트웨어\F4_Templete\STM32F4xx_DSP_StdPeriph_Lib_V1.8.0\Project\STM32F4xx_StdPeriph_Templates\EWARM\STM32F429_439xx\Exe\Project.out" 
+
+--plugin "F:\IAR Systems\Embedded Workbench 7.3\arm\bin\armbat.dll" 
+
+--device_macro "F:\IAR Systems\Embedded Workbench 7.3\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+
+
+
